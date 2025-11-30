@@ -101,5 +101,4 @@ Dependendo da análise presente no notebook:
 |   |-- dly_to_csv.py
 |   |-- db_import.py
 |   |-- generate_dataset.py
-|   |-- redis_import.py
 L-- README.md (este arquivo)
